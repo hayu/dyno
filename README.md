@@ -1,3 +1,3 @@
 # Testing hello.html
 
-[Hello](https://github.com/hayu/dyno/hello.html)
+[Hello](https://hayu.github.io/dyno/hello.html)
