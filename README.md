@@ -1,4 +1,4 @@
-# Learning html with javascript and css, and its equivalent in coffeescript
+# Learning html with javascript and css, and their equivalents in coffeescript
 # The coffeescript files have to be compiled with "-b -o dist" flags
 
 # Hello World
