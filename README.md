@@ -1,8 +1,18 @@
 # Learning html with javascript and css, and their equivalents in coffeescript
-# The coffeescript files have to be compiled with "-b -o dist" flags
 
-# Hello World
+## To get up and running
 
-## [Hello](https://hayu.github.io/dyno/hello/js/index.html)
+```bash
+$ brew install npm
+$ brew install coffeescript
+$ npm install --save-dev coffeescript
+$ cd hello/coffee
+$ coffee -b -c -o dist hello.coffee
 
-## [Coffee](https://hayu.github.io/dyno/hello/coffee/index.html)
+```
+
+## Hello World
+
+### [Hello](https://hayu.github.io/dyno/hello/js/index.html)
+
+### [Coffee](https://hayu.github.io/dyno/hello/coffee/index.html)
