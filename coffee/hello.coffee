@@ -1,6 +1,6 @@
 toggle = ->
-    lang = document.getElementById("lang");
-    hello = document.getElementById("hello");
+    lang = document.getElementById("lang")
+    hello = document.getElementById("hello")
     content;
     if lang.value == "en"
         lang.value = "ch"
