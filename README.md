@@ -1,4 +1,4 @@
-# Learning html with javascript and css, and their equivalents in coffeescript
+# Learning html, javascript, css, and their equivalents in coffeescript.
 
 ## To get up and running
 
@@ -13,6 +13,8 @@ $ coffee -b -c -o dist hello.coffee
 
 ## Hello World
 
-### [Hello](https://hayu.github.io/dyno/hello/js/index.html)
+* [Hello](https://hayu.github.io/dyno/hello/js/index.html) -- Using Javascript to toggle "Hello World!" in English and 
+Chinese.
 
-### [Coffee](https://hayu.github.io/dyno/hello/coffee/index.html)
+* [Coffee](https://hayu.github.io/dyno/hello/coffee/index.html) -- Using Coffeescript to toggle "Hello World!" in 
+English and Chinese.
