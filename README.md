@@ -1,6 +1,7 @@
-# Testing html with javascript and css, and its equivalent in coffeescript
-# The coffeescript files have to be compiled with -b flag
+# Learning html with javascript and css, and its equivalent in coffeescript
+# The coffeescript files have to be compiled with "-b -o dist" flags
 
-[Hello](https://hayu.github.io/dyno/hello/js/index.html)
+# Hello World
+## [Hello](https://hayu.github.io/dyno/hello/js/index.html)
 
-[Coffee](https://hayu.github.io/dyno/hello/coffee/index.html)
+## [Coffee](https://hayu.github.io/dyno/hello/coffee/index.html)
